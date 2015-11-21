@@ -1,0 +1,12 @@
+c:\users\rostislav\documents\visual studio 2015\Projects\BigdanLab1Architect\BigdanLab1Architect\bin\Debug\BigdanLab1Architect.exe.config
+C:\Users\Rostislav\documents\visual studio 2015\Projects\BigdanLab1Architect\BigdanLab1Architect\obj\Debug\BigdanLab1Architect.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\documents\visual studio 2015\Projects\BigdanLab1Architect\BigdanLab1Architect\bin\Debug\BigdanLab1Architect.exe
+C:\Users\Rostislav\documents\visual studio 2015\Projects\BigdanLab1Architect\BigdanLab1Architect\bin\Debug\BigdanLab1Architect.pdb
+C:\Users\Rostislav\documents\visual studio 2015\Projects\BigdanLab1Architect\BigdanLab1Architect\obj\Debug\BigdanLab1Architect.exe
+C:\Users\Rostislav\documents\visual studio 2015\Projects\BigdanLab1Architect\BigdanLab1Architect\obj\Debug\BigdanLab1Architect.pdb
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\bin\Debug\BigdanLab1Architect.exe.config
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\obj\Debug\BigdanLab1Architect.exe
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\obj\Debug\BigdanLab1Architect.pdb
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\bin\Debug\BigdanLab1Architect.exe
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\bin\Debug\BigdanLab1Architect.pdb
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\obj\Debug\BigdanLab1Architect.csprojResolveAssemblyReference.cache

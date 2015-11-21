@@ -1,0 +1,21 @@
+Test 1 - Deleting single files 
+Test passed 
+return value = "0" 
+Test 2 - Deleting single folders 
+Test passed 
+return value = "0" 
+Test 3 - Remove the contents of the folder 
+Test passed 
+return value = "0" 
+Test 4 - Entering an incorrect file path 
+Test passed 
+return value = "-1" 
+Test 5 - Entering an incorrect folder path. Part 1 
+Test passed 
+return value = "-1" 
+Test 6 - Entering an incorrect folder path. Part 2 
+Test passed 
+return value = "-1" 
+Test 8 - Find and delete chosen file 
+Test passed 
+return value = "0" 

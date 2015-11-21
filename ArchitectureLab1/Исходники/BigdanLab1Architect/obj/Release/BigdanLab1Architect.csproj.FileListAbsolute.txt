@@ -1,0 +1,6 @@
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\bin\Release\BigdanLab1Architect.exe.config
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\bin\Release\BigdanLab1Architect.exe
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\bin\Release\BigdanLab1Architect.pdb
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\obj\Release\BigdanLab1Architect.csprojResolveAssemblyReference.cache
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\obj\Release\BigdanLab1Architect.exe
+D:\Labs\Arch\Lab1\Исходники\BigdanLab1Architect\obj\Release\BigdanLab1Architect.pdb

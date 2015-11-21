@@ -1,0 +1,9 @@
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\bin\Debug\BigdanGraphicsLab2.exe.config
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\bin\Debug\BigdanGraphicsLab2.exe
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\bin\Debug\BigdanGraphicsLab2.pdb
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\obj\Debug\BigdanGraphicsLab2.csprojResolveAssemblyReference.cache
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\obj\Debug\BigdanGraphicsLab2.Form1.resources
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\obj\Debug\BigdanGraphicsLab2.Properties.Resources.resources
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\obj\Debug\BigdanGraphicsLab2.csproj.GenerateResource.Cache
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\obj\Debug\BigdanGraphicsLab2.exe
+D:\Labs\NET\Univer\BigdanGraphicsLab2\BigdanGraphicsLab2\obj\Debug\BigdanGraphicsLab2.pdb

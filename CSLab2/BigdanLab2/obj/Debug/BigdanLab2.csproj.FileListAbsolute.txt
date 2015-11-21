@@ -1,0 +1,6 @@
+D:\Labs\NET\Univer\BigdanLab2\BigdanLab2\bin\Debug\BigdanLab2.exe.config
+D:\Labs\NET\Univer\BigdanLab2\BigdanLab2\bin\Debug\BigdanLab2.exe
+D:\Labs\NET\Univer\BigdanLab2\BigdanLab2\bin\Debug\BigdanLab2.pdb
+D:\Labs\NET\Univer\BigdanLab2\BigdanLab2\obj\Debug\BigdanLab2.csprojResolveAssemblyReference.cache
+D:\Labs\NET\Univer\BigdanLab2\BigdanLab2\obj\Debug\BigdanLab2.exe
+D:\Labs\NET\Univer\BigdanLab2\BigdanLab2\obj\Debug\BigdanLab2.pdb
